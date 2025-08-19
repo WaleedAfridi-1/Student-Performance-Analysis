@@ -82,7 +82,7 @@ The dataset consists of **student demographic, academic, and social background d
 ┌─────────▼─────────┐
 │   Evaluation      │ → Accuracy, RMSE, R² Score
 └───────────────────┘
-
+```
 ## 🛠 Technologies Used
 - **Programming:** Python 3 🐍  
 - **Data Handling:** Pandas, NumPy  
